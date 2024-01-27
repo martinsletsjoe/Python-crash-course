@@ -1,0 +1,3 @@
+In Python you can create computer programs.
+In Python you can make websites to show anything you want.
+In Python you can struggle, get frustrated and even angry because you do not understand what is happening.
